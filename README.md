@@ -1,3 +1,5 @@
 # blooket-hacks
 reupload of minesraft 2
-to install save the raw code as a download or whatever.  Then go to bookmarks on your browser then import
+to install open up bookmarklets then view raw.  Right click and do save as.  Then go to your browser and go to bookmarks.  Then import it.
+
+GUI DOES NOT WORK
